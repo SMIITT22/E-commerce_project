@@ -1,6 +1,6 @@
+//import methods from firebase.utils.js which are importent in logical aspect
 import { signInWithGooglePopup, createUserDocumentFromAuth } from '../../utils/firebase/firebase.utils'
-
-
+import SignUpForm from '../../components/sign-up-form/sign-up-form.component'
 const SignIn = () => {
     const logGoogleUser = async () => {
         const {user} = await signInWithGooglePopup();
@@ -9,7 +9,8 @@ const SignIn = () => {
     return (
         <div>
             <h1>Sign-in Page</h1>
-            <button onClick={logGoogleUser}>Sign-in with google button</button>
+            <button onClick={logGoogleUser}>Sign-in with google</button> 
+            <SignUpForm />
         </div>
     )
 }
