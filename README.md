@@ -28,48 +28,7 @@ This project is an e-commerce platform that allows users to browse products, add
 - **Styling**: CSS (or specify if you used a framework like Tailwind CSS or Bootstrap)
 - **Other Tools**: (Add any additional libraries or tools, e.g., Express.js, Axios, etc.)
 
-## Installation
-Follow these steps to set up the project locally:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/SMIITT22/E-commerce_project.git
-cd E-commerce_project
-```
-
-### 2. Install Dependencies
-#### For the Frontend (React):
-```bash
-cd client
-npm install
-```
-
-#### For the Backend (if applicable):
-```bash
-cd server
-npm install
-```
-
-### 3. Set Up MongoDB
-Ensure MongoDB is installed and running on your system. Create a `.env` file in the `server` directory (if applicable) and add your MongoDB connection string:
-```env
-MONGODB_URI=mongodb://localhost:27017/ecommerce_db
-```
-
-### 4. Run the Application
-#### Start the Backend (if applicable):
-```bash
-cd server
-npm start
-```
-
-#### Start the Frontend:
-```bash
-cd client
-npm start
-```
-
-### 5. Open the Application
+### 4. Open the Application
 Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action.
 
 ## Usage
