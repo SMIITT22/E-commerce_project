@@ -6,7 +6,6 @@ Welcome to the **E-Commerce Project!** This is a fully functional web applicatio
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
