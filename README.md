@@ -7,7 +7,6 @@ Welcome to the **E-Commerce Project!** This is a fully functional web applicatio
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project is an e-commerce platform that allows users to browse products, add items to their cart, and complete purchases. It leverages the power of MongoDB for efficient data storage and retrieval, paired with React for a dynamic and interactive frontend.
