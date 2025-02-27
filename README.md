@@ -6,7 +6,6 @@ Welcome to the **E-Commerce Project!** This is a fully functional web applicatio
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,11 +28,6 @@ This project is an e-commerce platform that allows users to browse products, add
 
 ### 4. Open the Application
 Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action.
-
-## Usage
-- Browse the product listings on the homepage.
-- Add items to your cart and proceed to checkout.
-- *(Add any specific instructions based on your project’s features, e.g., "Log in to access personalized recommendations.")*
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
